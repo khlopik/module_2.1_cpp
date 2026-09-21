@@ -1,8 +1,6 @@
-#include "driver/gpio.h"
 #include "esp_timer.h"
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
-#include "esp_attr.h"
 #include "Gpio.hpp"
 #include "Led.hpp"
 #include "HardwareConfig.hpp"
